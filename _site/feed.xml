@@ -1,0 +1,92 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Theatha Technical Blog</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-02-21T20:03:28+08:00</updated>
+  <author>
+    <name>Taha Y.</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 Taha Y. </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Setup A Yara Scanner In Aws Lambda</title>
+    <link href="http://localhost:4000/posts/Setup-a-YARA-Scanner-in-AWS-Lambda/" rel="alternate" type="text/html" title="Setup A Yara Scanner In Aws Lambda" />
+    <published>2022-10-03T00:00:00+08:00</published>
+  
+    <updated>2022-10-03T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Setup-a-YARA-Scanner-in-AWS-Lambda/</id>
+    <content src="http://localhost:4000/posts/Setup-a-YARA-Scanner-in-AWS-Lambda/" />
+    <author>
+      <name>Taha Y.</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Introduction
+Hello everyone! I’ve been searching how AWS Lambda can be used for analyzing things for a while. So I could get a YARA Scanner that could work on the remote server without messing with the server side and it’s environment. I will explain how I setup a simple YARA Scanner in AWS Lambda in this blog. If you want to discuss or ask me something, you can reach me from twitter.
+
+What is ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Configuration Extraction With Yara</title>
+    <link href="http://localhost:4000/posts/Configuration-Extraction-with-YARA/" rel="alternate" type="text/html" title="Configuration Extraction With Yara" />
+    <published>2022-09-25T00:00:00+08:00</published>
+  
+    <updated>2022-09-25T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Configuration-Extraction-with-YARA/</id>
+    <content src="http://localhost:4000/posts/Configuration-Extraction-with-YARA/" />
+    <author>
+      <name>Taha Y.</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+Introduction
+Hello everyone! Until seeing this blog from _n1ghtw0lf, I did not know that we can use YARA rules for configuration extraction. He wrote a YARA rule for dotnet samples using dotnet and a custom module. Then, it is inspired me to do the same thing for other kinds of samples besides samples that are written in dotnet. However, I could not find any module that gets the data at the gi...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
